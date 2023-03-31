@@ -1,0 +1,2 @@
+PROGRAM	Main			PT=1	Main	HIDDEN=0	
+FUNCTION_BLOCK	Aufgabe			PT=1	Aufgabe	HIDDEN=0	

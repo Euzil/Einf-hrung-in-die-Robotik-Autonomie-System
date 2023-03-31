@@ -1,0 +1,4 @@
+Name,Data Type
+@GV.Analog_Input1,WORD
+@GV.Analog_Input2,WORD
+@GV.PLCMODE_ON,BOOL
